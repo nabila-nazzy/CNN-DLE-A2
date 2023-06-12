@@ -1,2 +1,2 @@
-# CNN-DLE-A2
-Assessment 2 Convolutional Neural Network Project
+# Ithaca + CNN Projects
+Inculdes several projects from several assessments from NLP and DLE.
